@@ -1,4 +1,3 @@
-// cong
 $.fn.extend({
 	code : function(duration){
 		var second = duration,
